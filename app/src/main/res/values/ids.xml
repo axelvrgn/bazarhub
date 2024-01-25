@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="tvTitle" type="id" />
+    <item name="btnToAddCategory" type="id" />
+    <item name="btnToAddProduct" type="id" />
+    <item name="btnToUpdateProduct" type="id" />
+    <item name="btnToViewProducts" type="id" />
+    <item name="tvSubitle" type="id" />
+    <item name="etId1" type="id" />
+    <item name="etName1" type="id" />
+    <item name="etImageURL1" type="id" />
+    <item name="etPrice1" type="id" />
+    <item name="etDescription1" type="id" />
+    <item name="btnAddProduct" type="id" />
+    <item name="space" type="id" />
+</resources>

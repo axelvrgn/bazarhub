@@ -1,0 +1,9 @@
+<!-- styles.xml -->
+<resources>
+
+    <!-- Utilisez un thème sans ActionBar, car vous allez ajouter une Toolbar personnalisée -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Autres configurations -->
+    </style>
+
+</resources>

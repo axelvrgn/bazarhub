@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_products"
+        android:title="Products"
+        android:icon="@drawable/select_product_image" />
+    <item
+        android:id="@+id/action_categories"
+        android:title="Categories"
+        android:icon="@drawable/category" />
+    <item
+        android:id="@+id/action_search"
+        android:title="Search"
+        android:icon="@drawable/ic_search" />
+</menu>
